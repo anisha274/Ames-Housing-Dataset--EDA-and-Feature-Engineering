@@ -4,7 +4,7 @@
 This repository contains a comprehensive, production-grade data preprocessing, Exploratory Data Analysis (EDA), and Feature Engineering pipeline executed on the famous **Ames Housing Dataset** (compiled by Dean De Cock). The objective of this project is to take a raw, highly skewed, and structurally messy real estate dataset containing **2,930 observations and 82 features** and transform it into a leakage-free, fully optimized matrix ready for supervised machine learning regression algorithms.
 
 This work was completed as part of the **Big Data Lab Assignment - 1**.
-
+Kaggle link🔗 : https://www.kaggle.com/code/ummemehajabinanisha/ames-housing-dataset-eda-feature-engineering 
 ---
 
 ## 🛠️ Key Pipeline Accomplishments
